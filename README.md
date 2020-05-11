@@ -1,2 +1,2 @@
 # CalculateBMI
-Calculating the BMI for a user.
+Calculating the BMI with height and weight entered by the user.
